@@ -1,0 +1,20 @@
+Basic overview:
+
+Menu:
+[Manager] (requires password)
+-Ask to start new account
+-Check existing account details
+-Remove an account
+-Check password of an account
+-edit account
+-exit program
+
+Menu:
+[customer]
+-Ask for id & password of the account
+	- Check account details
+	- Check transaction History
+	- Exit
+-Exit 
+
+
