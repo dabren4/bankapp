@@ -1,7 +1,3 @@
-# bankapp
+# Bank Application
 
-## darren header 
-
-1. one
-1. two
-1. three
+This application will simulate a bank login and deposit system.
